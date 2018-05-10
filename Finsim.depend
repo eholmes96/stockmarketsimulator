@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1463670087 source:c:\users\evholmes\onedrive\documents\2nd year 2nd sem\advanced programming\final project\finsim\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"investor.h"
+	"company.h"
+	"tech.h"
+	"retail.h"
+
+1463670015 c:\users\evholmes\onedrive\documents\2nd year 2nd sem\advanced programming\final project\finsim\investor.h
+	<iostream>
+	<fstream>
+	<string>
+	"company.h"
+
+1463639891 c:\users\evholmes\onedrive\documents\2nd year 2nd sem\advanced programming\final project\finsim\company.h
+	<iostream>
+
+1463640938 c:\users\evholmes\onedrive\documents\2nd year 2nd sem\advanced programming\final project\finsim\tech.h
+	"company.h"
+	<iostream>
+	<cstdlib>
+
+1463643785 c:\users\evholmes\onedrive\documents\2nd year 2nd sem\advanced programming\final project\finsim\retail.h
+	"company.h"
+	<iostream>
+	<cstdlib>
+
