@@ -1,10 +1,7 @@
 #ifndef INVESTOR_H_INCLUDED
 #define INVESTOR_H_INCLUDED
-#include <iostream>
-#include <fstream>
-#include <string>
-#include "company.h"
-using namespace std;
+
+
 
 struct investorRecord {
     int ID;
@@ -37,7 +34,7 @@ public:
 
 private:
     investorRecord investorData;
-    fstream investorFile;
+    std::fstream investorFile;
 
 };
 

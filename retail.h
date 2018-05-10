@@ -1,11 +1,7 @@
 #ifndef RETAIL_H_INCLUDED
 #define RETAIL_H_INCLUDED
 
-#include "company.h"
-#include <iostream>
-#include <cstdlib>
 
- using namespace std;
 
 class retail : public company
 {

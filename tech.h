@@ -1,10 +1,5 @@
 #ifndef TECH_H_INCLUDED
 #define TECH_H_INCLUDED
-#include "company.h"
-#include <iostream>
-#include <cstdlib>
-
- using namespace std;
 
 class tech : public company
 {

@@ -1,9 +1,6 @@
 #ifndef COMPANY_H_INCLUDED
 #define COMPANY_H_INCLUDED
 
-#include <iostream>
-using namespace std;
-
 class company
 {
 public:
@@ -32,5 +29,6 @@ private:
 
 };
 
+int getrand();
 
 #endif // COMPANY_H_INCLUDED
